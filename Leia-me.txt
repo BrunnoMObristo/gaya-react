@@ -1,0 +1,6 @@
+Principais Arquivos:
+
+routes.js: contém o componente Routes com as rotas para cada arquivo contido na pasta pages;
+header.js: simples componente com o cabeçalho da página
+App.js: arquivo principla que instancia o componente Routes
+Pages: contém as páginas home, incluir e listar.

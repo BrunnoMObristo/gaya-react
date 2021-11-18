@@ -1,0 +1,60 @@
+label {
+    display: flex !important;
+}
+
+.form-row{
+    display: flex;
+    padding-bottom: 17px;
+}
+
+.col-md-4, .col-md-3{
+    padding-right: 9px;
+}
+
+.col{
+    width: 256px;
+}
+
+.desc{
+    display: table-cell;
+}
+
+table{
+    padding-top: 16%;
+    display: block;
+    padding-left: 31%;
+}
+
+ul, li{
+    list-style: none;
+    text-align: left;
+}
+
+.nomeLoja{
+    color: green;
+    font-size: 29px;
+}
+
+.descLoja{
+    font-size: 14px;
+    color: gray;
+}
+
+.rounded-corner{
+    width: 87px;
+    border-radius: 48%;
+    height: 78px;
+}
+
+.pontuacao{
+    padding-top: 15px;
+    color: #818122;
+}
+
+.desc ul{
+    padding-left: 0px;
+}
+
+tbody tr{
+    box-shadow: 1px 2px 37px #888888;
+}
